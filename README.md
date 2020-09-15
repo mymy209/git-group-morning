@@ -1,4 +1,3 @@
 # git-group-morning
 
-const name = 'Stephen Yi'
-
+const name = 'Jessica Stevens'
